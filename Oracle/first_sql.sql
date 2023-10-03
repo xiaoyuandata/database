@@ -5,4 +5,4 @@ inner join DEPT
 where EMP.DEPTNO = 10;
 
 select *
-from emp;
+from EMP;
